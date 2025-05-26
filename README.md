@@ -1,7 +1,8 @@
 # 📊 Project Title: End-to-End-Retail_Order_Analysis
 
 ## 🔍 Objective
-The purpose of this project is to implement my knowledge and skills to solve a real-world problem on a dataset.
+The purpose of this project is to implement my knowledge and skills to solve a real-world problem on a dataset.This dataset contains 2022 and 2023 global mart sales dataset.
+Used this data for learning purpose, performed data wrangling, data modelling and Exploratory Data analysis.
 
 ## 🧰 Tools & Technologies
 - Python (Pandas, NumPy)
