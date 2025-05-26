@@ -1,10 +1,7 @@
 # 📊 Project Title: End-to-End-Retail_Order_Analysis
 
 ## 🔍 Objective
-Briefly describe the purpose of the project. 
 The purpose of this project is to implement my knowledge and skills to solve a real-world problem on a dataset.
-
-What problem are you solving or what business need are you addressing?
 
 ## 🧰 Tools & Technologies
 - Python (Pandas, NumPy)
